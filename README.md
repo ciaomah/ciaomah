@@ -2,7 +2,7 @@
 
 Atualmente sou estudante e meu foco é em Infraestrutura, DevOps e DevSecOps.
 Dedicando ao domínio de Linux, Shell Script, Git/Github, Redes e automação de Processos.
-Busco absorver e aplicar práticas modernas de CI/CD, Containerização (Docker), Observabilidade, Clud e Segurança.
+Busco absorver e aplicar práticas modernas de CI/CD, Containerização (Docker), Observabilidade, Cloud e Segurança.
 
 ## Atualmente estudando
 - Linux
