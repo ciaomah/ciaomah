@@ -5,7 +5,14 @@
 Busco absorver e desenvolver experiência prática através de pesquisas, projetos e estudos contínuos.
 
 * Repositórios dedicados aos meus estudos, projetos e evolução, guiados por um roadmap organizado e prático.
-#### 
+
+#### 🌎
+* With 12 years of experience in another field, I decided to embrace a new challenge in technology, focusing on DevOps & DevSecOps.
+
+* I am dedicated to mastering Linux, Shell Scripting, Git/GitHub, Networking, and Process Automation. Applying modern practices in CI/CD, Containerization (Docker), Observability, Cloud, and Security. I seek to absorb knowledge and develop hands-on experience through research, projects, and continuous learning. 
+
+* Repositories dedicated to my studies, projects, and growth, guided by an organized and practical roadmap.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hellommay) 
 
 --- 
