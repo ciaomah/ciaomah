@@ -1,9 +1,8 @@
 ## About Me:
-* Com 12 anos de experiência em outra área, decidi abraçar um novo desafio para a área de tecnologia com foco em DevSecOps, automação e segurança.
+* Com 12 anos de experiência em outra área, decidi abraçar um novo desafio para a área de tecnologia com foco em DevSecOps.
 
-* Atualmente sou estudante e meu foco é em Infraestrutura, DevOps e **DevSecOps**. 
-Estou dedicando ao domínio de Linux, Shell Scripting, Git/GitHub, Redes e Automação de Processos. 
-Busco absorver e desenvolver experiência prática através de pesquisas, projetos e estudos contínuos. Aplicando práticas modernas de CI/CD, Containerização (Docker), Observabilidade, Cloud e Segurança.
+* Estou dedicando ao domínio de Linux, Shell Scripting, Git/GitHub, Redes e Automação de Processos. Aplicando práticas modernas de CI/CD, Containerização (Docker), Observabilidade, Cloud e Segurança.
+Busco absorver e desenvolver experiência prática através de pesquisas, projetos e estudos contínuos. 
 ####
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hellommay) 
 
