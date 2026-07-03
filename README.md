@@ -6,15 +6,6 @@ Hoje estudo Linux, Shell Scripting, Python, Git/GitHub, Containerização (Docke
 
 * Repositórios dedicados aos meus estudos, projetos e evolução, guiados por um roadmap organizado e prático.
 
----
-
-
-🏁 With 12 years of experience in high-end gastronomy, I learned firsthand what it means to operate under high pressure, standardize processes, lead teams, and ensure quality in every delivery—transferable skills that I now bring to DevOps & DevSecOps.
-
-Currently, I am studying Linux, Shell Scripting, Python, Git/GitHub, Containerization (Docker), Observability, as well as CI/CD practices and pipeline security.
-
-* Repositories dedicated to my studies, projects, and growth, guided by an organized and practical roadmap.
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hellommay) 
 
