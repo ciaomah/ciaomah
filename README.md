@@ -1,8 +1,10 @@
 ## About Me
 
-🏁 Trabalhei na area da alta gastronomia por 12 anos, aprendi na prática o que significa operar sob pressão, padronizar processos, liderar times e garantir qualidade em cada entrega — habilidades que trago para DevOps & DevSecOps. 
+→ Após +10 anos trabalhanmdo na alta gastronomia, encerrei o ciclo para atuar na área da Tecnologia. Estou estudando através de um roadmap completo e organizado focado em nível Júnior em DevOps e DevSecOps. 
 
-Hoje estudo Linux, Shell Scripting, Python, Git/GitHub, Containerização (Docker), Observabilidade e práticas de CI/CD e segurança de pipelines. 
+Criando uma base sólida em Linux, Bash Script, Python, Git/GitHub, Containerização, Observabilidade, práticas de CI/CD e Segurança.
+
+Mantenho projetos ativos no GitHub e sigo em constante evolução combinando cursos especializados e laboratórios práticos.
 
 * Repositórios dedicados aos meus estudos, projetos e evolução, guiados por um roadmap organizado e prático.
 
