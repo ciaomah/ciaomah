@@ -1,8 +1,10 @@
 ## About Me
 
-→ Após +10 anos trabalhanmdo na alta gastronomia, encerrei o ciclo para atuar na área da Tecnologia. Estou estudando através de um roadmap completo e organizado focado em nível Júnior em DevOps e DevSecOps. 
+→ Após +10 anos trabalhando na alta gastronomia, encerrei o ciclo para atuar na área da Tecnologia. Estou estudando através de um roadmap completo e organizado focado em nível Júnior em DevOps, Infraestrutura e Segurança. 
 
-Criando uma base sólida em Linux, Bash Script, Python, Git/GitHub, Containerização, Observabilidade, práticas de CI/CD e Segurança.
+Construindo uma base sólida e prática em:
+• Sistemas e Automação: Linux, Bash/Shell Script, Python, Git/GitHub.
+• Operações e Infra: Docker (Containerização), CI/CD, Cloud (AWS), Observabilidade e Fundamentos de Segurança.
 
 Mantenho projetos ativos no GitHub e sigo em constante evolução combinando cursos especializados e laboratórios práticos.
 
