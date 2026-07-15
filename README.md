@@ -4,8 +4,8 @@
 
 Os repositórios e projetos estão em evolução constante. Novos projetos são adicionados conforme avanço no roadmap de estudos, combinando cursos especializados e laboratórios práticos durante minha jornada de formação.
 
-* Repositório principal organizado por fases:
--> **[sysops-devops](https://github.com/ciaomah/sysops-devops)** <-
+* Repositório principal organizado por fases: **[sysops-devops](https://github.com/ciaomah/sysops-devops)** 
+  
 Cada módulo possui documentação, comandos praticados e aprendizados técnicos.
 
 --- 
