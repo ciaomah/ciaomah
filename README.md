@@ -4,15 +4,22 @@
 
 Os repositórios e projetos estão em evolução constante. Novos projetos são adicionados conforme avanço no roadmap de estudos, combinando cursos especializados e laboratórios práticos durante minha jornada de formação.
 
-* Repositório principal organizado por fases: **[sysops-devops](https://github.com/ciaomah/sysops-devops)** 
-  
-Cada módulo possui documentação, comandos praticados e aprendizados técnicos.
+#### Objetivos
+* Construir uma base sólida em Linux, Redes e Infraestrutura.
+* Desenvolver automações utilizando Bash e Python.
+* Aplicar conceitos de Docker e CI/CD em projetos práticos.
+* Resolver desafios e laboratórios de Segurança da Informação.
+* Documentar a evolução técnica através de projetos reproduzíveis e boas práticas.
+
+
+#### Repositório principal organizado por fases: **[sysops-devops](https://github.com/ciaomah/sysops-devops)** 
+
 
 --- 
 
 ## Tech Journey:
 #### Core Skills ↴
-🐧 Linux | 🐚 Shell Script | 🐍 Python | 🔧 Git | 🐙 GitHub | 🔄 GitHub Actions | 🐳 Docker | 🌐 Nginx 
+🐧 Linux | 🐚 Shell Script | 🐍 Python | 🔧 Git | 🐙 GitHub | 🔄 GitHub Actions | 🐳 Docker | 🌐 Nginx | 🛜 Netwwork (TCP/IP)
 
 #### Currently Learning ↴
 ☁️ AWS | 🔐 Security Practices | 🐘 PostgreSQL | 🗄️ Databases Fundamentals | 🌶️ Flask
