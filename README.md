@@ -28,7 +28,7 @@ Os repositórios e projetos estão em evolução constante. Novos projetos são 
 🚀 Kubernetes | 🏗️ Terraform | 📊 Prometheus | 📈 Grafana | ⚙️ Jenkins 
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hellommay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hellommay@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayaracsoares) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hellommay@gmail.com) 
 
 
 
