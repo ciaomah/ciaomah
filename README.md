@@ -29,7 +29,7 @@ Mantenho projetos ativos no GitHub e sigo em constante evolução combinando cur
 
 #### 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ciaomah&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hellommay@gmail.com) 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ciaomah&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 
 
