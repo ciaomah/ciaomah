@@ -1,6 +1,6 @@
 ## About Me
 
-→ Após +10 anos trabalhando na alta gastronomia, encerrei o ciclo para atuar na área da Tecnologia. Estou construindo uma formação prática em DevOps, Infraestrutura e Segurança, com foco em Linux, automação, containers, CI/CD e práticas de segurança. 
+Focada em construir a formação prática em DevOps, Infraestrutura e Segurança da Informação. Sigo em transição de carreira com foco em administração de sistemas Linux, automação, conteinerização, CI/CD, Cloud e práticas de cibersegurança.
 
 Os repositórios e projetos estão em evolução constante. Novos projetos são adicionados conforme avanço no roadmap de estudos, combinando cursos especializados e laboratórios práticos durante minha jornada de formação.
 
