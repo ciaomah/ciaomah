@@ -1,6 +1,6 @@
 ## About Me
 
-Focada em construir a formação prática em DevOps, Infraestrutura e Segurança da Informação. Sigo em transição de carreira com foco em administração de sistemas Linux, automação, conteinerização, CI/CD, Cloud e práticas de cibersegurança.
+Focada em construir uma formação prática em Segurança da Informação, com base em Infraestrutura e DevOps. Sigo em transição de carreira, desenvolvendo uma base sólida em administração de sistemas Linux, automação, conteinerização, CI/CD, Cloud e práticas de cibersegurança.
 
 Os repositórios e projetos estão em evolução constante. Novos projetos são adicionados conforme avanço no roadmap de estudos, combinando cursos especializados e laboratórios práticos durante minha jornada de formação.
 
@@ -19,7 +19,7 @@ Os repositórios e projetos estão em evolução constante. Novos projetos são 
 
 ## Tech Journey:
 #### Core Skills ↴
-🐧 Linux | 🐚 Shell Script | 🐍 Python | 🔧 Git | 🐙 GitHub | 🔄 GitHub Actions | 🐳 Docker | 🌐 Nginx | 🛜 Netwwork (TCP/IP)
+🐧 Linux | 🐚 Shell Script | 🐍 Python | 🔧 Git | 🐙 GitHub | 🔄 GitHub Actions | 🐳 Docker | 🌐 Nginx | 🛜 Network (TCP/IP) | 🔐 Security Fundamentals
 
 #### Currently Learning ↴
 ☁️ AWS | 🔐 Security Practices | 🐘 PostgreSQL | 🗄️ Databases Fundamentals | 🌶️ Flask
